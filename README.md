@@ -48,7 +48,7 @@
 
 🔴[**Diseño de los Mock Ups 🖌**]()<br>
 
-🔴[**Enlace al Video Exposicion ⏯**]()
+🔴[**Enlace al Video Exposicion ⏯**](https://drive.google.com/file/d/119KIacxyeNXiWJYoisyi8xMZk12UidzN/view?usp=sharing)
 
 🟢[**Perfil del Proyecto 📗**]()
 
