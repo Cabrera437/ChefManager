@@ -41,7 +41,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 > [!NOTE]
-> siempre estar atentos a nuevas actulizacion de nuestro repositorio
+> > siempre estar atentos a nuevas actulizacion de nuestro repositorio<br>
 
 <h2>:open_file_folder: Archivos importantes </h2>
 
