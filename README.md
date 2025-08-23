@@ -44,7 +44,7 @@
 
 <h2>:open_file_folder: Archivos importantes </h2>
 
-🔴[**Diseño de los Mock Ups 🖌**]()<br>
+🔴[**Diseño de los Mock Ups 🖌**](https://www.figma.com/design/AMu6TUWdhvoEfKjvpzlEVy/ChefManager?t=aOpDOyGzBo24fBb4-1)<br>
 
 🔴[**Enlace al Video Exposicion ⏯**](https://drive.google.com/file/d/119KIacxyeNXiWJYoisyi8xMZk12UidzN/view?usp=sharing)
 
