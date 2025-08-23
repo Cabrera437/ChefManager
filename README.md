@@ -48,7 +48,7 @@
 
 🔴[**Enlace al Video Exposicion ⏯**](https://drive.google.com/file/d/119KIacxyeNXiWJYoisyi8xMZk12UidzN/view?usp=sharing)
 
-🟢[**Perfil del Proyecto 📗**]()
+🟢[**Perfil del Proyecto 📗**](https://drive.google.com/file/d/1xUdSX0B812AA60YkCtDNl8Msfxul6qQq/view?usp=sharing)
 
 
 
