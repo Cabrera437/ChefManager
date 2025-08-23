@@ -23,9 +23,8 @@
    <td>Mario Cabrera</td>
     <td>Nelson Murcia</td>
     <td>Sara Torres</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Alisson Ramos</td>
+    <td>Xenia Sánchez</td>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   </tr>
     <tr align="center">
